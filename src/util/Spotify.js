@@ -1,6 +1,6 @@
 let accessToken = '';
 const CLIENT_ID = '4ee089d889234844a99e9f5f229b480e';
-const REDIRECT_URI = 'http://localhost:3000/';
+const REDIRECT_URI = 'https://code-magie.surge.sh';
 
 const Spotify = {
   getAccessToken() {
